@@ -14,11 +14,11 @@
     <repository>
       <id>releases</id>
       <name>releases</name>
-      <url>http://localhost:8081/repository/releases/</url>
+      <url>http://localhost:8081/repository/home/</url>
     </repository>
     <snapshotRepository>
       <id>snapshots</id>
-      <url>http://localhost:8081/repository/snapshots/</url>
+      <url>http://localhost:8081/repository/home/</url>
     </snapshotRepository>
   </distributionManagement>
   <dependencies>
